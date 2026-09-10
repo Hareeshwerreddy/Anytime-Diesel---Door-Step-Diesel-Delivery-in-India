@@ -1,0 +1,242 @@
+{
+  "company": {
+    "name": "Anytime Diesel",
+    "shortName": "ATD",
+    "tagline": "Doorstep Diesel Delivery Anytime, Anywhere!",
+    "founderAndCEO": "Rahul Reddy Kovvuri",
+    "description": "Anytime Diesel is India's largest fuel delivery and management company, delivering high-quality, pure High-Speed Diesel (HSD) directly to customer doorsteps 24x7 at fuel-station prices with certified digital meters, zero pilferage, and IoT intelligence.",
+    "experience": "Backed by industry experts with over 40 years of expertise in India's fuel and energy sector.",
+    "scale": "Served 1,000+ clients pan-India, handling crores of litres annually, with a record-breaking 14 lakh litres delivered in a single month in a single city.",
+    "oilPartners": ["IOCL", "HPCL", "BPCL", "Nayara Energy"],
+    "phone": "+91 94944 55555",
+    "email": "info@anytimediesel.com",
+    "website": "https://www.anytimediesel.com",
+    "sustainabilityWebsite": "https://www.fuelfortrees.com",
+    "address": "Flat No. G1, Plot No. 246,255, Fortune Residency, Kavuri Hills, Madhapur, Hyderabad – 500081, Telangana, India",
+    "operatingHours": "24 Hours a Day, 7 Days a Week (24×7)",
+    "vision": "To redefine energy access delivering reliable fuel today, building tomorrow’s machine ecosystem and leading the profitable transition to clean energy across emerging markets.",
+    "mission": "To eliminate fuel anxiety by delivering safe, tamper-proof and on-time energy at the doorstep powered by a data-driven platform that cuts theft, waste and cost.",
+    "coreValues": [
+      "Service First (Fuel delivery designed around customer convenience)",
+      "Reliability (When uptime matters, consistent on-time dependable delivery)",
+      "Integrity (Transparent, ethical, and compliant operations)",
+      "Innovation (Technology-driven delivery with continuous improvement)",
+      "Trust (Built over 35+ years in the oil industry through quality and long-term partnerships)"
+    ],
+    "fiveEs": [
+      "Easy To Use (Order at any time from anywhere via app, phone, or web)",
+      "Efficient (Cutting-edge tech, real-time GPS tracking, digital payments & zero middlemen)",
+      "Economical (Pay the official market price as petrol pumps with no hidden markups)",
+      "Effective (100% unadulterated diesel door-delivered directly from oil terminals)",
+      "Sustainable Initiative (Collaboration with Fuel For Trees NGO: 1 Litre = 1 Leaf)"
+    ],
+    "certifications": [
+      "Petroleum and Explosives Safety Organization (PESO) Approved",
+      "ISO 9001:2015 Quality Management Certified",
+      "Weights & Measurements Organization (+/- 0.01% Calibrated Dispenser)",
+      "ARAI Tested & ISO 22241 (ATD Blue DEF)"
+    ]
+  },
+  "serviceAreas": [
+    "Hyderabad & Secunderabad (Telangana)",
+    "Bengaluru Urban & Rural (Karnataka)",
+    "Mumbai & Navi Mumbai (Maharashtra)",
+    "Visakhapatnam & Vijayawada (Andhra Pradesh)",
+    "Chennai & Sriperumbudur (Tamil Nadu)",
+    "Pune & Chakan Industrial Belt (Maharashtra)",
+    "Delhi NCR & Gurugram"
+  ],
+  "targetIndustries": [
+    "IT Parks & Data Centers (Power backup for mission-critical servers)",
+    "Hospitals & Healthcare Facilities (Life-saving emergency generator backup)",
+    "Manufacturing & Heavy Industrial Plants (Boilers, furnaces, continuous plants)",
+    "Construction Sites & Infrastructure Projects (Excavators, cranes, batching plants)",
+    "Logistics, Trucking & Fleet Depots (Depot yard refueling, intercity transit)",
+    "Warehouses & E-commerce Delivery Hubs (e.g. Swiggy, Zomato, logistics fleets)",
+    "Apartments, Gated Communities & Commercial Complexes",
+    "Hotels, Resorts & Restaurants",
+    "Agriculture, Mining & Remote Off-Grid Sites"
+  ],
+  "productLines": [
+    {
+      "name": "Doorstep Diesel Delivery (Bowsers)",
+      "description": "PESO-approved refuelers with Auto Tank Gauge (ATG) sensors, dual dispensing units, GPS tracking, geofencing, speed lock at 65 km/h, remote anti-theft locking, 10m delivery hose, and a mandatory 5-litre density & quality check at every delivery."
+    },
+    {
+      "name": "Diesel Cube (Bulk Storage)",
+      "description": "Industrial-grade on-site bulk diesel storage unit (1,000L and 2,000L) with integrated IoT sensors, RFID badge access dispensing, anti-spillage double bunded steel, and 24/7 cloud sync to the Fuelestic Portal. Ideal for clients using 2,000+ litres/week."
+    },
+    {
+      "name": "Diesel Pod (Generator Extension Tank)",
+      "description": "Compact IoT-enabled generator extension tank available in 250L, 500L, and 1,000L capacities. Replaces hazardous drums/barrels with automated level sensing and comes with 1 year free support."
+    },
+    {
+      "name": "Jerry Cans (Portable Diesel)",
+      "description": "PESO-approved, military-grade 20-litre portable diesel cans. Fireproof, waterproof, corrosion-free, leak-proof with pouring nozzle and tamper-proof lock. 1-hour instant delivery available 24/7."
+    },
+    {
+      "name": "ATD Blue (Diesel Exhaust Fluid - DEF)",
+      "description": "High-purity DEF exceeding ISO 22241 standards, ARAI tested, reducing harmful NOx emissions. Fully compatible with all BS-IV and BS-VI commercial & passenger diesel vehicles."
+    },
+    {
+      "name": "Fuelestic IoT Platform (B2B SaaS)",
+      "description": "Smart cloud platform providing real-time tank level telemetry, RFID user authorization, consumption analytics, automated low-fuel alerts, auto-reorder triggers, and ERP/FMS integration."
+    },
+    {
+      "name": "Fuel For Trees (NGO Carbon Offset)",
+      "description": "Environmental initiative converting order volumes into Leaf Points (1 Litre = 1 Leaf), planting verified geo-tagged native trees across India to achieve carbon neutrality."
+    }
+  ],
+  "faqList": [
+    {
+      "id": "what-is-anytime-diesel",
+      "question": "What is Anytime Diesel?",
+      "keywords": ["what is", "about", "who are you", "company", "anytime diesel", "overview", "atd"],
+      "answer": "Anytime Diesel (ATD) is India's largest fuel delivery company, delivering high-quality diesel directly to your doorstep, anytime and anywhere. We offer pure, measured, and transparent 24x7 diesel delivery for businesses, generators, and fleets at fuel-station prices, completely eliminating the need to queue at petrol bunks."
+    },
+    {
+      "id": "founder-and-leadership",
+      "question": "Who is the Founder and CEO of Anytime Diesel?",
+      "keywords": ["founder", "ceo", "rahul reddy", "leadership", "management", "who owns", "who started"],
+      "answer": "**Rahul Reddy Kovvuri** is the Founder & CEO of Anytime Diesel. With a strong background in business, technology, and entrepreneurship, Rahul founded Anytime Diesel to revolutionize India's fuel supply chain. He has grown ATD into the region's largest fuel delivery network with trusted partnerships across IOCL, HPCL, BPCL, and Nayara Energy, while pioneering the Diesel Cube and the 'Fuel for Trees' NGO."
+    },
+    {
+      "id": "experience-and-scale",
+      "question": "How experienced is Anytime Diesel and what is its operational scale?",
+      "keywords": ["experience", "scale", "track record", "history", "years", "volume", "how big", "reputation"],
+      "answer": "Anytime Diesel is backed by industry veterans with **over 40 years of expertise** in India's fuel and energy sector. We have proudly served **1,000+ clients pan-India**, handling crores of litres annually, highlighted by a record-breaking **14 lakh litres delivered in a single month in just one city**."
+    },
+    {
+      "id": "oil-company-partnerships",
+      "question": "Which oil companies are official partners of Anytime Diesel?",
+      "keywords": ["oil companies", "partners", "iocl", "hpcl", "bpcl", "nayara", "sourcing", "where from", "depots"],
+      "answer": "Anytime Diesel sources 100% pure, unadulterated diesel directly from government and authorized oil marketing company (OMC) terminals including **Indian Oil (IOCL)**, **Hindustan Petroleum (HPCL)**, **Bharat Petroleum (BPCL)**, and **Nayara Energy**."
+    },
+    {
+      "id": "vision-and-mission",
+      "question": "What is Anytime Diesel's vision, mission, and core values?",
+      "keywords": ["vision", "mission", "values", "philosophy", "goals", "5es", "principles"],
+      "answer": "• **Vision**: To redefine energy access by delivering reliable fuel today, building tomorrow's machine ecosystem, and leading the profitable transition to clean energy across emerging markets.\n• **Mission**: To eliminate fuel anxiety by delivering safe, tamper-proof, on-time energy at the doorstep powered by a data-driven platform that cuts theft, waste, and cost.\n• **Core Values**: Service First, Reliability, Integrity, Innovation, and Trust.\n• **The 5 Es**: Easy to use, Efficient, Economical, Effective, and Sustainable Initiative."
+    },
+    {
+      "id": "how-to-order",
+      "question": "How do I place an order for diesel?",
+      "keywords": ["how to order", "order", "place order", "buy", "book", "delivery process", "app", "website", "booking"],
+      "answer": "You can order diesel in 3 convenient ways:\n1. **Mobile App**: Download the Anytime Diesel app on Google Play Store or Apple App Store, select location and quantity.\n2. **Call 24/7 Hotline**: Dial **+91 94944 55555**.\n3. **Website**: Visit **www.anytimediesel.com** and fill out the quick fuel requisition form."
+    },
+    {
+      "id": "delivery-process",
+      "question": "How does the delivery process work step-by-step?",
+      "keywords": ["delivery process", "how it works", "steps", "workflow", "fulfillment", "dispatch"],
+      "answer": "1. **Place Order**: Request fuel volume and delivery time via the Anytime Diesel App or hotline.\n2. **Smart Bowser Dispatch**: A PESO-approved, GPS-tracked mobile dispenser is routed to your location with real-time tracking.\n3. **Safe Metered Dispensing**: Fuel is dispensed directly into your generator, tanks, or machinery using calibrated digital flow meters (+/- 0.01% accuracy) followed by instant digital GST invoicing."
+    },
+    {
+      "id": "pricing-and-rates",
+      "question": "Is the diesel price the same as petrol pumps? Are there hidden charges?",
+      "keywords": ["price", "pricing", "cost", "rate", "markup", "expensive", "charges", "station", "pump price", "hidden"],
+      "answer": "Yes! Pricing is 100% transparent and **exactly the same as the daily retail petrol pump price** in your locality. There are no hidden markups or surcharges on the fuel rate. Deliveries are measured using PESO-calibrated digital flow meters with zero loss."
+    },
+    {
+      "id": "quality-quantity-assurance",
+      "question": "How does Anytime Diesel ensure 100% fuel quality and accurate quantity?",
+      "keywords": ["quality", "quantity", "accuracy", "pure", "unadulterated", "meter", "density", "test", "pilferage", "theft"],
+      "answer": "• Fuel is sourced directly from authorized OMC terminals and transported in sealed, geo-fenced tankers.\n• Dispensed via automated digital flow meters calibrated and approved by Weights & Measurements (+/- 0.01% accuracy).\n• At **every single delivery**, our crew conducts a **5-litre quality test and density check** on-site before fueling your assets."
+    },
+    {
+      "id": "safety-and-truck-tech",
+      "question": "What safety standards and truck technologies are used for deliveries?",
+      "keywords": ["safety", "standards", "truck", "bowser", "technology", "atg", "geofencing", "speed lock", "lock", "pipe", "peso"],
+      "answer": "Our delivery bowsers are PESO-licensed and packed with modern safety tech:\n• **Auto Tank Gauge (ATG)** sensor for real-time tank level accuracy.\n• **Dual Dispensing Units** for faster multi-equipment refueling.\n• **IoT Geofencing & Remote Locking System** to prevent transit pilferage.\n• **Speed Lock at 65 km/h** for on-road transit safety.\n• **10-Metre Housing Pipe** to reach generators in hard-to-access yards.\n• **Safety Trained Crew** equipped with spark arrestors and fire extinguishers."
+    },
+    {
+      "id": "service-locations-and-cities",
+      "question": "Which cities and areas does Anytime Diesel operate in?",
+      "keywords": ["location", "city", "cities", "service areas", "hyderabad", "bangalore", "mumbai", "vizag", "pune", "chennai", "delhi"],
+      "answer": "Anytime Diesel operates across major metropolitan and industrial corridors including:\n• **Hyderabad & Secunderabad** (Telangana)\n• **Bengaluru** (Karnataka)\n• **Mumbai & Navi Mumbai** (Maharashtra)\n• **Visakhapatnam & Vijayawada** (Andhra Pradesh)\n• **Chennai & Sriperumbudur** (Tamil Nadu)\n• **Pune** (Maharashtra)\n• **Delhi NCR & Gurugram**\n...with ongoing expansion across Tier 1 and Tier 2 industrial hubs pan-India."
+    },
+    {
+      "id": "industries-served",
+      "question": "Which industries and business sectors does Anytime Diesel serve?",
+      "keywords": ["industries", "sectors", "clients", "who uses", "commercial", "it park", "hospitals", "construction", "swiggy", "zomato"],
+      "answer": "We serve over 1,000+ enterprise clients across:\n• **IT Parks & Data Centers** (Uninterruptible power backup for servers)\n• **Hospitals & Healthcare** (Priority life-safety generator refueling)\n• **Manufacturing & Heavy Industries** (Boilers, furnaces, production lines)\n• **Construction & Infrastructure** (Excavators, cranes, batching plants)\n• **Logistics & Fleets** (Depot yard refueling, delivery fleets, Swiggy, Zomato)\n• **Gated Communities, Hotels & High-Rise Apartments**"
+    },
+    {
+      "id": "b2b-smart-fuel-management",
+      "question": "What is Smart Fuel Management for B2B corporate customers?",
+      "keywords": ["b2b", "dashboard", "smart fuel", "telemetry", "analytics", "corporate", "invoicing", "audit", "reports"],
+      "answer": "B2B enterprise clients get access to a dedicated smart dashboard featuring:\n• Real-time delivery tracking & consumption analytics\n• Automated digital GST invoices & audit-ready reports\n• Multi-site tank level monitoring with auto-reorder triggers\n• Elimination of driver fuel cards, paper slips, dead mileage, and pilferage."
+    },
+    {
+      "id": "diesel-cube-overview",
+      "question": "What is the ATD Diesel Cube and what problems does it solve?",
+      "keywords": ["diesel cube", "cube", "bulk storage", "storage tank", "iot tank", "fuel cube", "problems solved"],
+      "answer": "The **Diesel Cube** is Anytime Diesel's industrial-grade bulk on-site diesel storage solution with integrated IoT intelligence. It eliminates fuel theft, manual logging errors, dead mileage from station queuing, stock dry-outs, and unsafe barrel storage.\n\n**How It Works:**\n1. **Tamper-Proof Storage**: Fire-safe double-walled steel enclosure.\n2. **RFID/Badge Access**: Only pre-authorized staff can dispense fuel.\n3. **IoT Nozzle**: Tracks exact litres dispensed per machine/vehicle.\n4. **Fuelestic Dashboard**: Real-time cloud sync with low-fuel alerts."
+    },
+    {
+      "id": "diesel-cube-models-and-capacities",
+      "question": "What models and capacities are available for the Diesel Cube?",
+      "keywords": ["cube capacity", "cube models", "1000l", "2000l", "diesel cube iot", "diesel cube standard", "sizes"],
+      "answer": "• **Diesel-Cube IoT (Smart Model)**: Available in **2,000L** and **1,000L** (custom order). Includes real-time IoT sensors, RFID access control, 4G/GSM connectivity, mobile app analytics, and 1-month free SaaS trial.\n• **Diesel-Cube Standard (Non-IoT Model)**: Available in **2,000L** and **1,000L**. Features industrial MS steel enclosure, calibrated flow meter dispenser, secure locking chamber, and fire insulation.\n• Recommended for businesses consuming **2,000+ litres/week**."
+    },
+    {
+      "id": "diesel-pod-generator-tank",
+      "question": "What is the Diesel Pod?",
+      "keywords": ["diesel pod", "pod", "generator tank", "dg tank", "extension tank", "250l", "500l"],
+      "answer": "The **Diesel Pod** is a compact, smart, IoT-enabled generator extension tank that replaces hazardous drums and barrels. Available in **250L, 500L, and 1,000L** capacities, fitted with an IoT Fuel Sensor Pod. It includes **1 year of FREE support and service** with all purchases."
+    },
+    {
+      "id": "jerry-cans-specifications",
+      "question": "What are ATD Jerry Cans and their delivery options?",
+      "keywords": ["jerry cans", "jerry can", "can", "20 litres", "portable diesel", "small quantity", "emergency fuel"],
+      "answer": "ATD Jerry Cans are **PESO-approved, military-grade 20-litre portable diesel units**:\n• Fireproof, waterproof, rust-proof, and corrosion-free.\n• Fitted with a dedicated pouring nozzle and leak-proof tamper lock.\n• **Instant Delivery in 1 Hour (Available 24/7)** or scheduled slots.\n• Free on-site quality & quantity verification."
+    },
+    {
+      "id": "atd-blue-def",
+      "question": "What is ATD Blue (DEF / Diesel Exhaust Fluid)?",
+      "keywords": ["atd blue", "def", "diesel exhaust fluid", "adblue", "bs6", "bs4", "nox", "arai", "iso 22241", "emissions"],
+      "answer": "ATD Blue is our premium Diesel Exhaust Fluid (DEF) engineered to improve engine efficiency and help commercial fleets meet strict emission standards:\n• Exceeds **ISO 22241** standards and **ARAI Tested**.\n• Drastically reduces harmful NOx exhaust pollution.\n• Compatible with all **BS-IV and BS-VI** diesel commercial vehicles, buses, trucks, and equipment."
+    },
+    {
+      "id": "fuelestic-iot-platform-and-saas",
+      "question": "What is the Fuelestic IoT Platform and SaaS subscription?",
+      "keywords": ["fuelestic", "iot platform", "saas", "software", "subscription", "plans", "trial", "free trial"],
+      "answer": "The Fuelestic IoT Platform turns Diesel Cubes and Pods into connected smart assets with live telemetry, RFID authorization, low-fuel alerts, auto-reorder, and ERP integration.\n• **1-Month Free Trial**: Full platform access, real-time monitoring, RFID setup & training with no credit card required.\n• **Monthly & Annual Plans**: Billed per month or annual discount with dedicated account management."
+    },
+    {
+      "id": "warranty-and-amc",
+      "question": "What warranty and after-sales maintenance is provided for Diesel Cube & Pod?",
+      "keywords": ["warranty", "amc", "service", "maintenance", "repair", "response time", "after sales", "support"],
+      "answer": "• **1-Year Comprehensive Warranty**: Covers all labour, service charges, and parts replacement for system components, plus 1-year manufacturer warranty on the dispenser.\n• **Annual Maintenance Contract (AMC)**: Available from Year 2 with preventive maintenance visits every 6 months.\n• **Service Response SLA**:\n  - Within 25 KM of Hyderabad: 24–36 hours\n  - 25–50 KM: 36–48 hours\n  - Within 100 KM: 72 hours\n  - Remote sites (100+ KM): 5 working days."
+    },
+    {
+      "id": "installation-and-site-readiness",
+      "question": "What are the site readiness requirements and installation timeline for Diesel Cube?",
+      "keywords": ["installation", "site readiness", "civil work", "electrical", "requirements", "how long", "timeline"],
+      "answer": "• **Timeline**: 4 weeks from receipt of booking advance.\n• **Structural**: Min 4ft x 4ft area, reinforced concrete base (min 3ft x 3ft), 8ft ceiling height, good ventilation.\n• **Electrical**: Dedicated 16A industrial socket with surge/UPS protection and 4G/Wi-Fi coverage.\n• **Safety**: Fire extinguisher (min 6kg CO2/DCP), proper earthing, and crane/forklift offloading access.\n• **Delivery**: Free within 25km of Hyderabad."
+    },
+    {
+      "id": "payment-terms-and-cancellation",
+      "question": "What is the payment structure and cancellation policy for hardware orders?",
+      "keywords": ["payment", "milestones", "cancellation", "refund", "commercial terms", "advance", "gst"],
+      "answer": "• **3-Milestone Payment**: Milestone 1 (Booking advance) -> Milestone 2 (80% balance on delivery) -> Milestone 3 (Final balance upon successful commissioning & training sign-off).\n• **Cancellation Policy**: Full refund of advance within 5 working days of booking; 50% refund after 1 week.\n• **GST**: All prices are exclusive of GST; GST applies at prevailing rates."
+    },
+    {
+      "id": "sustainability-and-fuel-for-trees",
+      "question": "What is the 'Fuel For Trees' sustainability initiative and its impact?",
+      "keywords": ["fuel for trees", "trees", "sustainability", "ngo", "carbon neutral", "leaf points", "1 litre = 1 leaf", "environment"],
+      "answer": "Anytime Diesel partners with **Fuel For Trees NGO** (www.fuelfortrees.com) to drive carbon neutrality. Every litre of fuel ordered converts into **Leaf Points** (the concept of **'1 Litre = 1 Leaf'**), funding verified geo-tagged native tree planting.\n\n**Environmental Impact to Date:**\n• **70–140 tons of CO2 saved per month** through route optimization\n• **50,000+ trees planted**\n• **5,000+ paper invoices eliminated**\n• **99.9% spill-free delivery track record**."
+    },
+    {
+      "id": "franchise-opportunity",
+      "question": "How can I start an Anytime Diesel franchise and what are the benefits?",
+      "keywords": ["franchise", "partnership", "start franchise", "dealership", "investment", "roi", "margins", "how to become partner"],
+      "answer": "Anytime Diesel offers high-ROI franchise opportunities across Telangana, Andhra Pradesh, Maharashtra, Karnataka, and beyond.\n\n**What You Get:**\n• Turnkey PESO-compliant mobile diesel bowser setup & licensing support\n• OMC terminal oil sourcing agreements (IOCL, HPCL, BPCL, Nayara)\n• Fuelestic IoT telematics & dispatch software onboarding\n• Dedicated marketing and corporate client contract routing\n• Attractive profit margins per litre delivered.\n\n**To Apply:** Call **+91 94944 55555** or email **info@anytimediesel.com**."
+    },
+    {
+      "id": "contact-and-headquarters",
+      "question": "How do I contact Anytime Diesel customer support or corporate headquarters?",
+      "keywords": ["contact", "phone", "email", "address", "support", "headquarters", "hyderabad", "office", "hotline", "helpdesk"],
+      "answer": "• **24/7 Customer Hotline**: +91 94944 55555\n• **Official Email**: info@anytimediesel.com\n• **Website**: www.anytimediesel.com\n• **NGO Website**: www.fuelfortrees.com\n• **Corporate Office**: Flat No. G1, Plot No. 246,255, Fortune Residency, Kavuri Hills, Madhapur, Hyderabad – 500081, Telangana, India."
+    }
+  ]
+}
